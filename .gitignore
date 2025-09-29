@@ -15,7 +15,6 @@ __pycache__/
 *.log
 
 # CSV / data lokal
-*.csv
 *.xlsx
 
 # OS-specific
