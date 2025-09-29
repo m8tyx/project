@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# CSV / data lokal
+*.csv
+*.xlsx
+
+# Model / hasil prediksi
+prediksi_*.csv
+history_*.csv
+*.h5
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
