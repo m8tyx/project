@@ -1,4 +1,4 @@
- "request_date","origin_geo_hash","time_slot", "request_count"
+request_date,origin_geo_hash,time_slot,request_count
 "29-09-2025","qxgm3u","00:00-00:30","6"
 "29-09-2025","qxgm3u","00:30-01:00","1"
 "29-09-2025","qr6rp6","06:30-07:00","2"
